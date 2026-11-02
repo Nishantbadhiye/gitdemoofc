@@ -1,2 +1,0 @@
-Hello, I am learning Git.
-This is my first DevOps project.
