@@ -1,3 +1,2 @@
 # gitdemoofc
-learning Git demo 
-hello new changes 
+learning Git demo
