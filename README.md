@@ -1,3 +1,2 @@
 # gitdemoofc
-learning Git demo 
-production new chanegs 
+learning Git demo
