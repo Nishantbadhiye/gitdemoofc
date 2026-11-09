@@ -1,0 +1,10 @@
+# Ignore environment and secret files
+.env
+secret.txt
+
+# Ignore all log files
+*.log
+
+# Ignore directories
+node_modules/
+build/
