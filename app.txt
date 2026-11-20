@@ -1,2 +1,1 @@
-Hello, I am learning Git.
-This is my first DevOps project.
+Welcome to DevOps Project
